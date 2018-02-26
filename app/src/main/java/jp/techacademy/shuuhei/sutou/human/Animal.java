@@ -7,6 +7,7 @@ package jp.techacademy.shuuhei.sutou.human;
 abstract class Animal {
     String name;
     int age;
+    String hobby;
 
     abstract public void say();
 }

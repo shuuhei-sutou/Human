@@ -5,6 +5,6 @@ package jp.techacademy.shuuhei.sutou.human;
  */
 
 public interface Thinkable {
-    public void think(String hobby);
+    public void think();
 
 }
